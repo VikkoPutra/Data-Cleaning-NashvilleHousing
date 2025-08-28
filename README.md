@@ -1,6 +1,5 @@
 # 🏠 Nashville Housing Data Cleaning Project
 
-## Hook
 Real estate data rarely comes clean and analysis-ready. This project transforms a messy Nashville housing dataset into a polished, reliable foundation for meaningful insights using advanced SQL data cleaning methodologies and enterprise-grade data engineering practices.
 
 ## The Problem
